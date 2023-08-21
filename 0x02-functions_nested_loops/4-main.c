@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Check the _isalpha function.
  *
  * Return: Always 0.
  */
